@@ -1,6 +1,7 @@
+
 - Helping farmers preserve food quality and generate more income
 
-
+# Abbreviation
 - CAPEX - Capital Expenditure
 - Opex - Operational Expenditure
 
