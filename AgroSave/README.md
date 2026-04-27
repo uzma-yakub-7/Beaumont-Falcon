@@ -1,4 +1,4 @@
-######## Helping farmers preserve food quality and generate more income
+####### Helping farmers preserve food quality and generate more income
 
 
 - CAPEX - Capital Expenditure
