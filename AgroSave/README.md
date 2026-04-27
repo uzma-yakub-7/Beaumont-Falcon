@@ -1,4 +1,4 @@
-
+# Mission
 - Helping farmers preserve food quality and generate more income
 
 # Abbreviation
