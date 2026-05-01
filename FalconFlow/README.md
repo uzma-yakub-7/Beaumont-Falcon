@@ -2,4 +2,4 @@
 - A Project by Intekhan and Uzma
 
 # FalconFlow Workflow
-- ![Workflow](images/FalconFlow Workflow.png)
+- ![Alt text](FalconFlow%20Workflow.png)
