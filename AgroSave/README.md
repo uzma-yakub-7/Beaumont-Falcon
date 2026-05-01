@@ -5,7 +5,10 @@
 - Helping farmers preserve food quality and generate more income
 
 # Prototype
-- ![Alt text](Introducing AgroSave.png)
+- ![Alt text](Introducing%20AgroSave.png)
+
+# Overview
+- 
 
 # Abbreviation
 - CAPEX - Capital Expenditure
