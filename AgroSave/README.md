@@ -1,5 +1,5 @@
 # AgroSave - Cold Storage Container
-- Project by Intekhan, Kamal, Walid & Uzma
+- Project by Intekhab, Kamal, Walid & Uzma
 
 # Mission
 - Helping farmers preserve food quality and generate more income
