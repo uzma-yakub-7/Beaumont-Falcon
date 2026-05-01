@@ -1,5 +1,5 @@
 # FalconFlow - Automated Water Dispensing Booth
-- A Project by Intekhan and Uzma
+- Project by Intekhab and Uzma
 
 # FalconFlow Workflow
 - ![Alt text](FalconFlow%20Workflow.png)
