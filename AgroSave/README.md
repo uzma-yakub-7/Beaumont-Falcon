@@ -8,7 +8,7 @@
 - ![Alt text](Introducing%20AgroSave.png)
 
 # Overview
-- 
+- ![Alt text](AgroSave%20System%20Overview.png)
 
 # Abbreviation
 - CAPEX - Capital Expenditure
